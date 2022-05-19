@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "name": "Hulk",
+      "description": "Зеленый монстр",
+      "element": "earth",
+      "id": "8141ebcd-9d56-49c7-be98-01cf53c769df"
+    },
+    {
+      "name": "John Teylor",
+      "description": "fmeeoep",
+      "element": "water",
+      "id": "f143049c-caf9-47d3-921c-e643154f0ec7"
+    }
+  ],
+  "filters": [
+    { 
+      "id": "all",
+      "name": "all",
+      "element": "Все",
+      "className": "btn btn-outline-dark"
+    },
+    { 
+      "id": "fire",
+      "name": "fire",
+      "element": "Огонь",
+      "className": "btn btn-danger"
+    },
+    { 
+      "id": "water",
+      "name": "water",
+      "element": "Вода",
+      "className": "btn btn-primary"
+    },
+    { 
+      "id": "wind",
+      "name": "wind",
+      "element": "Ветер",
+      "className": "btn btn-success"
+    },
+    { 
+      "id": "earth",
+      "name": "earth",
+      "element": "Земля",
+      "className": "btn btn-secondary"
+    }
+  ]
+}
